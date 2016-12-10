@@ -13,9 +13,9 @@ The source code have are comments and i hope that they will help you.
 ./
 	README.md - Project description file
 	dialog.inc - File of graphical user interface and are some handlers
-  l2ee.ASM - Main project file
-  proc.inc - File of basic procedures 
-  rsrc.inc - Resources file
+	l2ee.ASM - Main project file
+	proc.inc - File of basic procedures 
+	rsrc.inc - Resources file
 ```
 
 ##Help
