@@ -29,5 +29,5 @@ The source code have are comments and i hope that they will help you.
 
 ##How to use (ru)
 
-[![video guide](https://www.youtube.com/watch?v=Ih3dWq2Ov5k)](https://youtube.com/watch?v=Ih3dWq2Ov5k "Click to watch the video guide")
+[![video guide](https://i.ytimg.com/vi_webp/Ih3dWq2Ov5k/maxresdefault.webp)](https://youtube.com/watch?v=Ih3dWq2Ov5k "Click to watch the video guide")
 
