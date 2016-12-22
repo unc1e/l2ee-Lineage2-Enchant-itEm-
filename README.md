@@ -26,3 +26,8 @@ The source code have are comments and i hope that they will help you.
 > http://coderx.ru/member.php?u=18760
 
 > https://vk.com/id269086455
+
+##How to use (ru)
+
+[![video guide](https://www.youtube.com/watch?v=Ih3dWq2Ov5k)](https://youtube.com/watch?v=Ih3dWq2Ov5k "Click to watch the video guide")
+
