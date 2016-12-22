@@ -27,7 +27,7 @@ The source code have are comments and i hope that they will help you.
 
 > https://vk.com/id269086455
 
-##How to use (ru)
-
+##How to use 
+Click on the image to watch the guide (ru)
 [![video guide](https://i.ytimg.com/vi_webp/Ih3dWq2Ov5k/maxresdefault.webp)](https://youtube.com/watch?v=Ih3dWq2Ov5k "Click to watch the video guide")
 
